@@ -9,3 +9,9 @@ var animal = {
   name: 'Fido',
   age: 5,
 }
+var customer = {
+  gender: 'female',
+  age: 45,
+  isSatisfied: true,
+  attributes: ['brown hair', 'blue eyes'],
+}
